@@ -11,7 +11,6 @@
 **Tech Stack**  
 
 <!-- badges source: https://raw.githubusercontent.com/alexandresanlim/Badges4-README.md-Profile/master/README.md -->
-![](https://img.shields.io/badge/label-message-red)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E) ![NPM](https://img.shields.io/badge/npm-CB3837?style=plastic&logo=npm&logoColor=white) ![Nodejs](https://img.shields.io/badge/Node%20js-339933?style=plastice&logo=nodedotjs&logoColor=white)
