@@ -1,13 +1,13 @@
 **Social Media**
 
 <a href="https://www.linkedin.com/in/liam-tripp/">
-  <img align="left" alt="Liam's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
 </a>
 
-<br>
-<br>
-<br>
 
+<br>  
+<br>
+  
 **Languages and Tools**  
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code>
